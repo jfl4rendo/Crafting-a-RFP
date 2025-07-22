@@ -93,7 +93,6 @@ Proposals will be assessed based on the following:
 
 ### Contact Information:
 
-For any questions regarding this RFP, please contact:
 * **Name:** John Florendo
 * **Email:** johnflorendo@student.mitt.ca
 * **Phone:** (204)123-4567
